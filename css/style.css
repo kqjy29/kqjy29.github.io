@@ -1,0 +1,39 @@
+h1 {
+    font-size: 72px;  
+    color: hotpink
+}
+
+h2 {
+    color: #7b24ff;
+}
+
+h4.job-title {
+}
+
+h2#menu {
+    font-weight: bold;
+    font-size: 14px;
+    color: #0f185c;
+}
+
+a {
+    color: #132135;
+}
+
+h2#job {
+    color: blue;
+}
+
+/* .navlink {
+    color: red;
+} */
+
+body {
+  background-color: #ddebe6;
+}
+
+h3#ny_sub {
+    color: hotpink;
+  
+}
+education-date
